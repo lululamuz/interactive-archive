@@ -1,0 +1,509 @@
+[
+  {
+    "id": 1,
+    "slug": "inside-taxi-hong-kong",
+    "title": "Inside Taxi – Hong Kong",
+    "year": 2022,
+    "category": "Visual Art",
+    "tags": [
+      "Watercolor",
+      "Observational",
+      "Travel Sketch"
+    ],
+    "medium": "Watercolor on paper",
+    "size": "A4",
+    "thumb": "media/thumbs/t01.jpg",
+    "description": "",
+    "yearNote": "approx.",
+    "images": [
+      "media/images/inside-taxi-hong-kong.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "slug": "the-cage",
+    "title": "The Cage",
+    "year": 2022,
+    "category": "Visual Art",
+    "tags": [
+      "Installation",
+      "Sculpture",
+      "Light",
+      "Captivity"
+    ],
+    "medium": "Acrylic, mirror, LED",
+    "size": "120 × 180 × 120 mm",
+    "thumb": "media/thumbs/t02.jpg",
+    "description": "",
+    "series": "Captivity (high school theme)",
+    "yearNote": "approx.",
+    "images": [
+      "media/images/the-cage-main.jpg",
+      "media/images/the-cage-detail-1.jpg",
+      "media/images/the-cage-detail-2.jpg",
+      "media/images/the-cage-detail-3.jpg",
+      "media/images/the-cage-detail-4.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "slug": "spotlight-panopticon",
+    "title": "Spotlight & Panopticon",
+    "year": 2022,
+    "category": "Visual Art",
+    "tags": [
+      "Printmaking",
+      "Relief Print",
+      "Multicolor",
+      "Captivity"
+    ],
+    "medium": "Rubber stamp print, ink on paper",
+    "size": "A4",
+    "thumb": "media/thumbs/t03.jpg",
+    "description": "",
+    "series": "Captivity (high school theme)",
+    "yearNote": "approx.",
+    "images": [
+      "media/images/spotlight-panopticon-1.jpg",
+      "media/images/spotlight-panopticon-variations.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "slug": "untitled-no-1",
+    "title": "Untitled (No. 1)",
+    "year": 2024,
+    "category": "Visual Art",
+    "tags": [
+      "Watercolor"
+    ],
+    "medium": "Watercolor on paper",
+    "size": "approx. A4",
+    "thumb": "media/thumbs/t04.jpg",
+    "description": "",
+    "images": [
+      "media/images/untitled-no1-2024.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "slug": "in-womb",
+    "title": "In Womb",
+    "year": 2022,
+    "category": "Visual Art",
+    "tags": [
+      "Drawing",
+      "Print",
+      "Mixed Media",
+      "Sculpture",
+      "Captivity"
+    ],
+    "medium": "Pencil drawings, colored studies, print; Baby: mixed media (200 × 300 mm)",
+    "size": "",
+    "thumb": "media/thumbs/t05.jpg",
+    "description": "We form embryos from the constant fission of cellular elements, we are conceived in a space from the beginning of a cell, should we be innately familiar with imprisonment? It turns out that we are destined from birth to be bound and controlled.",
+    "series": "Captivity (high school theme)",
+    "yearNote": "approx.",
+    "images": [
+      "media/images/in-womb-baby-main.jpg",
+      "media/images/in-womb-baby-1.jpg",
+      "media/images/in-womb-baby-2.jpg",
+      "media/images/in-womb-print.jpg",
+      "media/images/in-womb-color.jpg",
+      "media/images/in-womb-sketches.jpg",
+      "media/images/in-womb-baby-sketch.jpg",
+      "media/images/in-womb-baby-process.jpg"
+    ],
+    "parts": [
+      {
+        "title": "Baby",
+        "medium": "Mixed media",
+        "size": "200 × 300 mm"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "slug": "exploitation",
+    "title": "Exploitation",
+    "year": 2023,
+    "category": "Visual Art",
+    "tags": [
+      "Drawing",
+      "Pencil",
+      "Paper Cutting",
+      "Series"
+    ],
+    "medium": "Pencil; pencil with color; silhouette cutting (paper, ink)",
+    "size": "A3",
+    "thumb": "media/thumbs/t06.jpg",
+    "description": "",
+    "images": [
+      "media/images/exploitation-pencil-photo.jpg",
+      "media/images/exploitation-pencil.jpg",
+      "media/images/exploitation-color.jpg",
+      "media/images/exploitation-cut.jpg"
+    ],
+    "parts": [
+      {
+        "title": "Sketch",
+        "medium": "Pencil",
+        "size": "A3"
+      },
+      {
+        "title": "Colored version",
+        "medium": "Pencil with color",
+        "size": ""
+      },
+      {
+        "title": "Silhouette cutting",
+        "medium": "Paper, ink",
+        "size": "A3"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "slug": "a-burning-cell",
+    "title": "A Burning Cell",
+    "year": 2022,
+    "category": "Other Design & Experiments",
+    "tags": [
+      "Performance",
+      "Photography",
+      "Mixed Media",
+      "Captivity"
+    ],
+    "medium": "Performance photoshoot; rope, mixed media",
+    "size": "",
+    "thumb": "media/thumbs/t07.jpg",
+    "description": "",
+    "series": "Captivity (high school theme)",
+    "yearNote": "approx.",
+    "images": [
+      "media/images/burning-cell-bars.jpg",
+      "media/images/burning-cell-1.jpg",
+      "media/images/burning-cell-2.jpg",
+      "media/images/burning-cell-6.jpg",
+      "media/images/burning-cell-5.jpg",
+      "media/images/burning-cell-4.jpg",
+      "media/images/burning-cell-3.jpg",
+      "media/images/burning-cell-7.jpg",
+      "media/images/burning-cell-sketch-1.jpg",
+      "media/images/burning-cell-sketch-2.jpg"
+    ]
+  },
+  {
+    "id": 8,
+    "slug": "still-with-you",
+    "title": "Still With You — Music Video",
+    "year": 2023,
+    "category": "Creative Video",
+    "tags": [
+      "Music Video",
+      "Storyboard",
+      "Direction",
+      "Editing"
+    ],
+    "medium": "Video; hand-drawn storyboard (31 pages)",
+    "size": "",
+    "thumb": "media/thumbs/t08.jpg",
+    "description": "",
+    "role": "Director, Creative Direction, Storyboard",
+    "link": "https://youtu.be/a1_xD9r5-NA",
+    "images": [
+      "media/images/stillwithyou/storyboard-01.jpg",
+      "media/images/stillwithyou/storyboard-04.jpg",
+      "media/images/stillwithyou/storyboard-08.jpg",
+      "media/images/stillwithyou/storyboard-12.jpg",
+      "media/images/stillwithyou/storyboard-15.jpg",
+      "media/images/stillwithyou/storyboard-21.jpg",
+      "media/images/stillwithyou/storyboard-27.jpg",
+      "media/images/stillwithyou/storyboard-31.jpg"
+    ],
+    "youtube": "a1_xD9r5-NA",
+    "credits": [
+      {
+        "role": "Director, creative direction, storyboard",
+        "name": "Lulu"
+      },
+      {
+        "role": "Music",
+        "name": "“Still With You” — Jung Kook"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "slug": "constructing-me",
+    "title": "Constructing Me",
+    "year": 2026,
+    "category": "Web & Interactive",
+    "tags": [
+      "Website",
+      "Self-portrait",
+      "Identity",
+      "Data",
+      "Interactive"
+    ],
+    "medium": "Website (HTML/CSS/JS)",
+    "size": "",
+    "thumb": "media/thumbs/t09.jpg",
+    "description": "This project started from Stuart Hall’s idea that identity is not something fixed that we simply discover about ourselves, but something that is continuously formed through representation, culture, and the way we are seen. His idea of identity as a process of “becoming” made me think about how many different systems are involved in constructing a version of who I am. I began by looking at how I represent myself, then how Google turns my behavior into data and categories, and finally how familiar identities from media can be applied back onto a person. Rather than trying to create one accurate self-portrait, Constructing Me looks at the different processes that keep producing and reshaping a sense of self.",
+    "link": "https://lululamuz.github.io/constructing-me/",
+    "images": [
+      "media/images/constructing-me-home.jpg",
+      "media/images/constructing-me-me.jpg",
+      "media/images/constructing-me-data.jpg",
+      "media/images/constructing-me-tags.jpg"
+    ]
+  },
+  {
+    "id": 10,
+    "slug": "vinyl-store",
+    "title": "Vinyl Store — a KHH Collage",
+    "year": 2026,
+    "category": "Web & Interactive",
+    "tags": [
+      "Website",
+      "Collage",
+      "Music",
+      "Korean Hip Hop",
+      "Interactive"
+    ],
+    "medium": "Website (HTML, CSS, JavaScript)",
+    "size": "",
+    "thumb": "media/thumbs/t10.jpg",
+    "description": "A three-page web collage exploring Korean hip hop (KHH) culture, framed as a visit to a vinyl record store: a storefront covered in stickers, flyers and graffiti; a display wall of KHH album covers redesigned as vinyl sleeves that flip to reveal credits; and a click-wheel MP3 player whose screen plays 20-second clips.",
+    "link": "https://lululamuz.github.io/khh-vinyl-store/index.html",
+    "images": [
+      "media/images/khh-vinyl-1.jpg",
+      "media/images/khh-vinyl-2.jpg",
+      "media/images/khh-vinyl-3.jpg"
+    ]
+  },
+  {
+    "id": 11,
+    "slug": "path-journal-sq",
+    "title": "PATH Journal Sq — Designed to Move",
+    "year": 2026,
+    "category": "Web & Interactive",
+    "tags": [
+      "Website",
+      "Urban Space",
+      "Photography",
+      "Sound",
+      "Interactive"
+    ],
+    "medium": "Website (HTML, CSS, JavaScript), photography, audio",
+    "size": "",
+    "thumb": "media/thumbs/t11.jpg",
+    "description": "PATH stations are built as part of a transportation system that moves large numbers of people between New Jersey and New York. To do that, the station has to control where people go, how fast they move, and whether the space is accessible to everyone. I take this route to school every day I have class, and after observing it over time, I started to see how the station was shaping my own behavior too: where I walked, where I stopped, and what I paid attention to. This site explores PATH through three layers: the design of the space, the effect of the senses and how commuters respond, and the systems behind them that regulate how commuters behave.",
+    "link": "https://lululamuz.github.io/path-journal-sq/",
+    "images": [
+      "media/images/path-journal-1.jpg",
+      "media/images/path-journal-2.jpg",
+      "media/images/path-journal-3.jpg",
+      "media/images/path-journal-4.jpg",
+      "media/images/path-journal-5.jpg"
+    ]
+  },
+  {
+    "id": 12,
+    "slug": "what-does-nyc-eat",
+    "title": "What Does NYC Eat?",
+    "year": 2026,
+    "category": "Web & Interactive",
+    "tags": [
+      "Data Visualization",
+      "Chart.js",
+      "NYC Open Data",
+      "Interactive"
+    ],
+    "medium": "Website (HTML, CSS, JavaScript, Chart.js), Python data cleaning",
+    "size": "",
+    "thumb": "media/thumbs/t12.jpg",
+    "description": "An interactive Chart.js project looking at the most common restaurant cuisines across NYC. Choose a borough, switch between a doughnut chart and a bar chart, and hover to see the number of restaurants and percentage for each cuisine. Data: NYC Open Data (NYCFoodInspectionSimple).",
+    "link": "https://lululamuz.github.io/nyc-food-viz/",
+    "images": [
+      "media/images/nyc-food-chart.jpg",
+      "media/images/nyc-food-1.jpg",
+      "media/images/nyc-food-sketches.jpg"
+    ]
+  },
+  {
+    "id": 13,
+    "slug": "unity-sketches",
+    "title": "Unity Sketches",
+    "year": 2025,
+    "category": "Creative Technology",
+    "tags": [
+      "Unity",
+      "3D",
+      "Animation",
+      "Physics",
+      "Experiment"
+    ],
+    "medium": "Unity (real-time 3D)",
+    "size": "",
+    "thumb": "media/thumbs/t13.jpg",
+    "description": "",
+    "images": [
+      "media/images/unity-dance-poster.jpg",
+      "media/images/unity-flower-poster.jpg"
+    ],
+    "videos": [
+      {
+        "src": "media/videos/unity-dance.mp4",
+        "poster": "media/images/unity-dance-poster.jpg",
+        "sound": true,
+        "caption": "Dance"
+      },
+      {
+        "src": "media/videos/unity-flower.mp4",
+        "poster": "media/images/unity-flower-poster.jpg",
+        "sound": false,
+        "caption": "Falling ball & flower"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "slug": "re-pulse",
+    "title": "Re-Pulse: The Emotional Language of Heartbeat",
+    "year": 2025,
+    "category": "Creative Technology",
+    "tags": [
+      "Arduino",
+      "Soft Robotics",
+      "Installation",
+      "Biofeedback",
+      "Heartbeat"
+    ],
+    "medium": "TPU heart (heat-sealed), air pump, Arduino, motor driver (TB6612), pulse sensing",
+    "size": "",
+    "thumb": "media/thumbs/t14.jpg",
+    "description": "A tech installation that reflects heartbeat in real time, transcending the biological into the emotional, social, and philosophical. Heartbeat goes beyond sustaining life; it’s an emotional language, a social resonance and a philosophical symbol of existence. It reminds us, in a chaotic world, to hear our own rhythm and to feel the pulse of others.",
+    "context": "Core Lab Objects & Core Studio Objects, Fall 2025",
+    "inspiration": "Rafael Lozano-Hemmer, Pulse Topology",
+    "images": [
+      "media/images/repulse-heart-2.png",
+      "media/images/repulse-heart-1.png",
+      "media/images/repulse-process-sealing.jpg",
+      "media/images/repulse-process-desk.jpg",
+      "media/images/repulse-circuit.jpg",
+      "media/images/repulse-clay-1.png",
+      "media/images/repulse-clay-2.png"
+    ],
+    "videos": [
+      {
+        "src": "media/videos/repulse-heart-inflate.mp4",
+        "poster": "media/images/repulse-video-poster.jpg",
+        "sound": false,
+        "caption": "The TPU heart inflating and deflating"
+      },
+      {
+        "src": "media/videos/repulse-pulse-sensor.mp4",
+        "poster": "media/images/repulse-sensor-poster.jpg",
+        "sound": false,
+        "caption": "Holding the pulse sensor"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "slug": "true-stories",
+    "title": "True Stories",
+    "year": 2024,
+    "category": "Other Design & Experiments",
+    "tags": [
+      "Writing",
+      "Photography",
+      "Memory",
+      "Personal"
+    ],
+    "medium": "Photo essay — photography and short writing (7 stories)",
+    "size": "",
+    "thumb": "media/thumbs/t15.jpg",
+    "description": "",
+    "images": [
+      "media/images/true-stories-bear.jpg",
+      "media/images/true-stories-siblings.jpg",
+      "media/images/true-stories-eighteen.jpg",
+      "media/images/true-stories-tangerines.jpg",
+      "media/images/true-stories-covid.jpg",
+      "media/images/true-stories-roommate.jpg",
+      "media/images/true-stories-spring-day.jpg"
+    ],
+    "stories": [
+      {
+        "title": "Proustian moment",
+        "text": "The fragrance lingered, held within the soft cotton filling. The bear was a gift, given to me in October 2019, during a holiday in Andermatt. Lack of accompany during childhood resulted me relying heavily on my mother’s scent for comfort. She sprayed her perfume into the stuffing of the bear before she left, knowing it would carry a part of her with me. The scent became my bridge to comfort, especially during long days at boarding school. It is a quiet reminder of home and family.",
+        "image": "media/images/true-stories-bear.jpg"
+      },
+      {
+        "title": "Siblings",
+        "text": "Relationship between me and my brothers had always been distant, awkward, even hostile at times. But shortly after turning 18, as the haze of adolescence faded, I began to see things differently. That is being to step into their shoes and look at things in a broader sense. There were less tensions during conversation, less competitiveness, more caring and understanding grew between us. This sunglasses was given to me for my 18th birthday from one of my brothers. In fact, it is more than an accessory, it symbols the changing relationship and act as a reminder of the connection we were born to share.",
+        "image": "media/images/true-stories-siblings.jpg"
+      },
+      {
+        "title": "18",
+        "text": "Scared, pressured, worried. Turning 18 seems so far yet so close to me at 17. As a child, I imagined my 18th birthday as a grand and unique event, it would be special, extravagant, something unforgettable. However, when the day finally arrived, I felt nothing but relief. I planned a simple party, celebrated with my close friends, and accepted the reality: I am a grownup. Nothing really changed. Not really. Still, something subtle had shifted. My way of thinking transformed and evolved. I used to be more practical and live in the present. Now, I have been more abstract and thoughtful.",
+        "image": "media/images/true-stories-eighteen.jpg"
+      },
+      {
+        "title": "Pregnant Winter Tangerines",
+        "text": "There are memories from my years on Zugerberg that belong only to that place. Locked and kept in the back of my mind. Every day, after leaving the dining hall, I would grab a tangerine, a simple habit. But it wasn’t ordinary tangerine. It was only during that specific winter, on that specific mountain, in that specific dining hall, where each tangerines held a perfect baby tangerines inside. Each one was heavy for its size, has the sweetest taste, juiciest of its species. Laugh and walk all the way from Groses Haus back to Felsenegg, wrapped in warm long coats, with friends keeping accompany. It’s the simplest kind of happiness, found in the smallest moments.",
+        "image": "media/images/true-stories-tangerines.jpg"
+      },
+      {
+        "title": "Covid - 19",
+        "text": "The pandemic still feels like a dream, even now. It’s as though our sense of time was disrupted, lost in the past. This was our first time going back to China after a long stay abroad. The world was going through the peak of lockdowns, quarantine and isolation, especially in China. The hotel we were arranged in was far near ideal, but with everyone going through the same procedures, there wasn’t much else we could do. Settling in for two weeks, we tried to get the best of it. Mom kept busy buying all sorts of things online. Foods, necessities, packages were piled outdoor. My friend checked the map and noticed there was a crematorium and graveyard nearby, she joked and said; “what a one-stop shop!”.",
+        "image": "media/images/true-stories-covid.jpg"
+      },
+      {
+        "title": "My last roommate",
+        "text": "Letizia was my last roommate. It was in Institut Montana Zugerberg, 2020. I didn’t realize until the final weeks of school that Letizia had been smoking vapes, cigarettes, and even doing drugs. I thought the way she signs at night were because of the cold tap water, but one night I realized it had been vape all along. She had a laughing gas hidden in her wardrobe, which she casually pulled out one night while arguing with me about the wonders of drug. She was my last roommate before I started university.",
+        "image": "media/images/true-stories-roommate.jpg"
+      },
+      {
+        "title": "Spring Day",
+        "text": "One week before I left Switzerland for London, Zoe and I went for a walk around Zugerberg. We both loved the song Spring Day and, during our walk, we spotted a tree that looked just like the one in the music video. With a glance, we knew what to do. We ran back to our dorm and grabbed a pairs of shoes and headed back to the tree. We tossed the shoes over the branches, their laces tied together. Spring day will come, no matter how cold it is right now. This message stayed with me and proving itself again and again. No matter how harsh reality might be, the future will be okay. It has been years since I last returned to Montana, but I still remember the shoes hanging from the branches, as if they were singing youth, and the hope it carries will live on forever.",
+        "image": "media/images/true-stories-spring-day.jpg"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "slug": "7-nights",
+    "title": "7 Nights",
+    "year": 2024,
+    "category": "Other Design & Experiments",
+    "tags": [
+      "Book Design",
+      "Layout",
+      "Typography",
+      "Editorial",
+      "Group Project"
+    ],
+    "medium": "Editorial layout / book design (20 pages)",
+    "size": "",
+    "thumb": "media/thumbs/t16.jpg",
+    "description": "",
+    "role": "Layout & book design (story co-written as a group)",
+    "extra": true,
+    "images": [
+      "media/images/7nights/page-01.jpg",
+      "media/images/7nights/page-03.jpg",
+      "media/images/7nights/page-05.jpg",
+      "media/images/7nights/page-07.jpg",
+      "media/images/7nights/page-09.jpg",
+      "media/images/7nights/page-11.jpg",
+      "media/images/7nights/page-13.jpg",
+      "media/images/7nights/page-15.jpg",
+      "media/images/7nights/page-17.jpg",
+      "media/images/7nights/page-19.jpg",
+      "media/images/7nights/page-20.jpg"
+    ]
+  }
+]
